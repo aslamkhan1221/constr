@@ -96,7 +96,6 @@ img {
   margin-bottom: 1rem;
   position: relative;
   display: inline-block;
-  
 }
 
 .section-title::after {
@@ -226,7 +225,7 @@ img {
 @media (max-width: 768px) {
   .grid-3, .grid-2 { grid-template-columns: 1fr; }
   .section { padding: 4rem 0; }
-  .section-title { font-size: 2rem; color: var(--white); }
+  .section-title { font-size: 2rem; }
 }
 
 /* Cards */
