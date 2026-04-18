@@ -54,17 +54,17 @@ const Home = () => {
       <section className="section" style={{ padding: '4rem 0 0 0' }}>
         <div className="container">
           <div className="grid grid-3">
-            <div className="glass-dark" style={{ padding: '2rem', borderRadius: 'var(--radius)', textAlign: 'center', color: 'white' }}>
+            <div className="glass-dark" style={{ backgroundImage: 'linear-gradient(rgba(15, 23, 42, 0.7), rgba(15, 23, 42, 0.85)), url(/images/FeatureBalsa.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', padding: '2rem', borderRadius: 'var(--radius)', textAlign: 'center', color: 'white' }}>
               <Building2 size={48} color="var(--primary)" style={{ margin: '0 auto 1rem' }} />
               <h3 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>493+</h3>
               <p style={{ color: 'var(--text-dark)' }}>Projects Completed</p>
             </div>
-            <div className="glass-dark" style={{ padding: '2rem', borderRadius: 'var(--radius)', textAlign: 'center', color: 'white' }}>
+            <div className="glass-dark" style={{ backgroundImage: 'linear-gradient(rgba(15, 23, 42, 0.7), rgba(15, 23, 42, 0.85)), url(/images/office.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', padding: '2rem', borderRadius: 'var(--radius)', textAlign: 'center', color: 'white' }}>
               <Users size={48} color="var(--primary)" style={{ margin: '0 auto 1rem' }} />
               <h3 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>170+</h3>
               <p style={{ color: 'var(--text-dark)' }}>Happy Clients</p>
             </div>
-            <div className="glass-dark" style={{ padding: '2rem', borderRadius: 'var(--radius)', textAlign: 'center', color: 'white' }}>
+            <div className="glass-dark" style={{ backgroundImage: 'linear-gradient(rgba(15, 23, 42, 0.7), rgba(15, 23, 42, 0.85)), url(/images/arch.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', padding: '2rem', borderRadius: 'var(--radius)', textAlign: 'center', color: 'white' }}>
               <Star size={48} color="var(--primary)" style={{ margin: '0 auto 1rem' }} />
               <h3 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>5+</h3>
               <p style={{ color: 'var(--text-dark)' }}>Years Experience</p>
