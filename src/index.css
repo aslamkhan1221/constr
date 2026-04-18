@@ -96,7 +96,7 @@ img {
   margin-bottom: 1rem;
   position: relative;
   display: inline-block;
-  color: var(--white);
+  
 }
 
 .section-title::after {
